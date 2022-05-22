@@ -1,0 +1,15 @@
+{
+  "name": "node-mongoose",
+  "version": "1.0.0",
+  "description": "This is an example of how to use mongoose to connect to MongoDB server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "John D. McDonald",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.3.4"
+  }
+}
